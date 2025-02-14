@@ -12,4 +12,6 @@ The Datasets contain different columns regarding the player's overall status. Ba
 
 The BOSS's dataset is a bit more complex, containing 2 different actions : a different attack than the standard one which is triggered when the player has low health, and to heal, which is triggered when the boss's health is low.
 
+![image alt]((https://github.com/stefanione/BEAT-EM-UP/blob/928ca40021caec40502ce1169637cd33476dbb44/Healing-Boss.png))
+
 
